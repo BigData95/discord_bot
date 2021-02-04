@@ -1,0 +1,6 @@
+discord.py
+pytest
+python-dotenv
+celery
+pika
+flake8
